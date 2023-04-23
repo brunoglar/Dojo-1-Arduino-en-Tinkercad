@@ -1,22 +1,23 @@
-# **Documentación de Arduino en Tinkercad 👨‍💻**
+# **<span style="color:white">Documentación de Arduino en Tinkercad👨‍💻**
+
 ---
 
 ![Arduino](https://d1e4pidl3fu268.cloudfront.net/1e27d448-be48-4a6a-97e9-855e2321ad37/images.crop_222x168_38,0.preview.png)
 
-##     **Integrantes**:
+##     **<span style="color:yellow">Integrantes:**
 ---
-* ### Bruno Gaston Luna
-* ### Carlos Ariel Martinez
+* ### <span style="color:white">**Bruno Gaston Luna**
+* ### <span style="color:white">**Carlos Ariel Martinez**
 
-## **Proyecto Dojo 1**
+## **<span style="color:yellow">Proyecto Dojo 1**
 ---
 
 ![Tinkercad](image.png "Vista previa, esquema en Tinkercad")
 
 
-## **Consigna:**
+## **<span style="color:yellow">Consigna:**
 ---
-El gobierno de la cuidad quiere actualizar los semáforos que tiene instalados. La empresa
+<span style="color:white">El gobierno de la cuidad quiere actualizar los semáforos que tiene instalados. La empresa
 “ScaraRobotics” gano la licitación y ahora les toca a los desarrolladores de la empresa generar
 un proyecto low cost que cumpla con las especificaciones que el gobierno de la cuidad nos
 impone, a saber las especificaciones son las siguientes:
@@ -44,14 +45,14 @@ continuación.
 ---
 
 
-## **Función principal**
-La **funcionalidad** del código a continuación, es la encargada de encender los **leds** y el **buzzer** tal como pide la consigna.
+## **<span style="color:yellow">Función principal**
+<span style="color:white">La **funcionalidad** del código a continuación, es la encargada de encender los **leds** y el **buzzer** tal como pide la consigna.
 
->**LED_ROJO1, LEDROJO2, LEDAMARILLO1, LEDAMARILLO2, LEDVERDE1, LEDVERDE2, BUZZER**
+>**<span style="color:green">LED_ROJO1, LEDROJO2, LEDAMARILLO1, LEDAMARILLO2, LEDVERDE1, LEDVERDE2, BUZZER**
 
 
 
-Son **#define** que utilizamos para asignar los leds y buzzer a cada pin en la placa de Arduino, a continuación una breve parte del código. Si desea ver el código completo en su totalidad, acceda mediante el link brindado al final del proyecto.
+<span style="color:white">Son **#define** que utilizamos para asignar los leds y buzzer a cada pin en la placa de Arduino, a continuación una breve parte del código. Si desea ver el código completo en su totalidad, acceda mediante el link brindado al final del proyecto.
 
 # 👨‍💻
 ```
@@ -91,7 +92,7 @@ void encenderRojo(int led1, int led2, int buzzer){
 ```
 
 
-# 🤖 *ENLACES A GDB Y TINKERCAD*
+# 🤖 *<span style="color:white">ENLACES A GDB Y TINKERCAD*
 >**Apreta en el link para acceder al código en 
 [GDB](https://onlinegdb.com/sfFZTfVYhX)**
 ---
