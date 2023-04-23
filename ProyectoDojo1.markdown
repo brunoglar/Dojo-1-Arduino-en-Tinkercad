@@ -47,7 +47,7 @@ continuación.
 ## **Función principal**
 La **funcionalidad** del código a continuación, es la encargada de encender los **leds** y el **buzzer** tal como pide la consigna.
 
->**<span style="color:green">LED_ROJO1, LEDROJO2, LEDAMARILLO1, LEDAMARILLO2, LEDVERDE1, LEDVERDE2, BUZZER**
+>**LED_ROJO1, LEDROJO2, LEDAMARILLO1, LEDAMARILLO2, LEDVERDE1, LEDVERDE2, BUZZER**
 
 
 
